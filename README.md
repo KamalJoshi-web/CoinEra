@@ -32,7 +32,7 @@ _Sleek carousel showcasing top cryptocurrencies._
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/CoinEra.git
+   git clone https://github.com/KamalJoshi-web/CoinEra.git
    ```
 
 2. Navigate to the project directory:
