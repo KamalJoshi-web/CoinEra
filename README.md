@@ -21,7 +21,7 @@ CoinEra is a comprehensive cryptocurrency website built using ReactJS and Materi
 ![Screenshot 1](screenshots/screenshot1.png)
 _Real-time cryptocurrency details and exchange information._
 
-![Screenshot 2](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 _Historical price chart with interactive features._
 
 ![Screenshot 3](screenshots/banner.png)
